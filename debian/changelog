@@ -1,0 +1,12 @@
+aurex-pdftools (0.8) precise; urgency=low
+
+  * Source package renamed to aurex-pdftools
+  * New binary package aurex-pdftools
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Tue, 28 Jan 2014 12:44:56 +0100
+
+nautilus-pdftools-transitional (0.7) precise; urgency=low
+
+  * Initial release. Solves upgrade issues to nautilus-pdf-tools
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Mon, 27 Jan 2014 18:52:57 +0100

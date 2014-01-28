@@ -1,0 +1,21 @@
+Source:  aurex-pdftools
+Section: admin
+Priority: optional
+Maintainer: Luis Antonio Garcia Gisbert <luisgg@gmail.com>
+Build-Depends: debhelper (>= 7.0)
+Standards-Version: 3.8.4
+
+Package: aurex-pdftools
+Architecture: all
+Depends: ${misc:Depends},  nautilus-pdf-tools
+Conflicts: nautilus-pdftools (< 0.7)
+Description: aurex metapackage for pdf management tools
+ This package depends on required aurex pdf management tools
+
+Package: nautilus-pdftools
+Architecture: all
+Depends: ${misc:Depends},  nautilus-pdf-tools
+Description: transitional package for nautilus-pdf-tools
+ This package is just a transitional package to facilitate upgrade
+ to nautilus-pdf-tools
+
