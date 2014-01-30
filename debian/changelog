@@ -1,3 +1,9 @@
+aurex-pdftools (0.9) precise; urgency=low
+
+  *  Replace and provide nautilus-pdftools
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Thu, 30 Jan 2014 08:24:08 +0100
+
 aurex-pdftools (0.8) precise; urgency=low
 
   * Source package renamed to aurex-pdftools

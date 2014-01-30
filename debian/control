@@ -9,6 +9,8 @@ Package: aurex-pdftools
 Architecture: all
 Depends: ${misc:Depends},  nautilus-pdf-tools
 Conflicts: nautilus-pdftools (< 0.7)
+Replaces: nautilus-pdftools
+Provides: nautilus-pdftools
 Description: aurex metapackage for pdf management tools
  This package depends on required aurex pdf management tools
 
